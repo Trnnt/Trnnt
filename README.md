@@ -1,7 +1,27 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trnnt&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trnnt&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trnnt&layout=compact&theme=tokyonight" />
-</p>
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Nishant Kumar</h1><br><h3 align="center">🚀 Building Web Apps • 💻 C++ Enthusiast • 🎮 Future Software Engineer</h3><br><br>---<br><br>## 👋 About Me<br>- 🎓 BTech CSE Student  <br>- 💡 Passionate about **C++ & Problem Solving**  <br>- 🌱 Currently learning **Web Development (React, Tailwind, Backend)**  <br>- 🤖 Exploring **AI, Game Development & Real-world Projects**  <br>- 🔥 Focused on building impactful and scalable applications  <br><br>---<br><br>## 🚀 Skills<br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,python,git,github" /><br></p><br><br>---<br><br>## 🛠️ Featured Projects<br><br>### 🎬 Netflix Clone  <br>→ Built a Netflix-inspired streaming platform using **React & Node.js**  <br>→ Aggregates content across Anime, K-Drama, Hollywood, and more  <br>→ Designed modern UI with real-time movie data integration  <br>🔗 Repo: https://github.com/Trnnt/Netflix_Clone  <br><br>---<br><br>### 🎌 Anime Landing Page  <br>→ Designed a modern anime-themed landing page UI  <br>→ Focused on **responsive design and clean frontend structure**  <br>🔗 Repo: https://github.com/Trnnt/AnimeLandingPage  <br><br>---<br><br>### 🚀 War-X (Game)  <br>→ Developed a space war game using **Python Arcade Library**  <br>→ Implemented gameplay mechanics and interactive controls  <br>🔗 Repo: https://github.com/Trnnt/War-X  <br><br>---<br><br>### 🧭 Career Compass  <br>→ Web app to guide students in making better career decisions  <br>→ Focused on **user experience and informative UI design**  <br>🔗 Repo: https://github.com/Trnnt/Career_Compass  <br><br>---<br><br>### 🎵 Music App (Rimuru Music)  <br>→ Built a high-performance music player using **React Native & Expo**  <br>→ Features cinematic UI and smooth playback experience  <br>🔗 Repo: https://github.com/Trnnt/Music_app  <br><br>---<br><br>## 🚧 Currently Building<br>- 🔥 AnimeWorld (Full-stack anime streaming platform)  <br>- 🤚 AI Gesture-based Photo Transfer System  <br><br>---<br><br>## 📊 GitHub Stats<br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Trnnt&show_icons=true&theme=tokyonight" /><br>  <br/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trnnt&theme=tokyonight" /><br></p><br><br>---<br><br>## 🎯 Goals<br>- 🚀 Become a skilled Software Engineer  <br>- 🎮 Build advanced games and apps  <br>- 🌍 Contribute to Open Source  <br>- 🧠 Master AI & System Design  <br><br>---<br><br>## 📫 Connect with Me<br>- 📧 Email: nishantkumar5220@gmail.com  <br>- 💼 LinkedIn: https://www.linkedin.com/in/nishant-kumar-a18453357/  <br>- 🐙 GitHub: https://github.com/Trnnt  <br><br>---<br><br>✨ *"I don’t just learn code — I build real projects with it."*
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nishant Kumar  ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nishant kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantkumar5220@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Trnnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Trnnt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trnnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Trnnt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Trnnt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Trnnt&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
