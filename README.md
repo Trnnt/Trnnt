@@ -16,13 +16,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=950&lines=Third-Year+CSE+Student;Aspiring+Full-Stack+Developer;Building+Frontend%2C+Backend+%26+Database+Projects;Exploring+AI+Tools%2C+APIs+%26+Real-World+Development" alt="Nishant Kumar developer introduction" />
-</div>
-
----
-
-
 <table>
 <tr>
 <td width="60%" valign="top">
