@@ -6,25 +6,23 @@
 
 <br/>
 
-# 👋 Hi, I'm Nishant!
+# 👋 Hi, I'm Nishant Kumar
 
----
-
-## 🚀 Building full-stack products and learning how intelligent software works.
+## Full-Stack Developer | Frontend & Backend Developer | Third-Year CSE Student
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-* 🌍 **Based in India**
-* 🎓 **Computer Science Engineering Student**
-* 💻 **Full-Stack Developer** — building frontend interfaces, backend APIs, databases, authentication, and deployment workflows
-* 🎨 Working with **React, JavaScript, Tailwind CSS, HTML, and CSS**
-* ⚙️ Learning backend development with **Node.js, Express.js, REST APIs, Firebase, Supabase, SQL, and MongoDB**
-* 🧠 Practising **DSA in C++**, DBMS, system design fundamentals, and **AI/ML**
-* 🔭 Building developer tools, full-stack web apps, games, and interactive projects
-* 🎮 Interested in software engineering, backend systems, game development, and AI-powered products
-* ⚡ Goal: build complete real-world products from idea to deployment
+### About Me
+
+- 💻 Third-year Computer Science Engineering student focused on full-stack development
+- ⚛️ Building responsive frontend applications with React, JavaScript, Tailwind CSS, HTML, and CSS
+- ⚙️ Learning backend development with Node.js, Express.js, REST APIs, authentication, databases, and deployment
+- 🧠 Practising DSA in C++, DBMS, OOP, and system design fundamentals
+- 🤖 Learning to use AI tools and AI APIs to build smarter features in web applications
+- 🎮 Building browser games and interactive projects to strengthen problem-solving and UI engineering
+- 🚀 Goal: become a software engineer who can build reliable products from idea to deployment
 
 </td>
 
@@ -89,6 +87,20 @@ A career guidance and exploration platform.
 </table>
 
 > Replace `YOUR_NETFLIX_CLONE_LIVE_URL` and `YOUR_CAREER_COMPASS_LIVE_URL` with your actual Vercel, Netlify, or deployed project links.
+
+---
+
+## 📌 Featured Repositories
+
+## 🧪 Currently Building
+
+| Project | Focus | Status |
+|---|---|---|
+| 🧠 GitHub Developer Assistant | GitHub API, React, AI integration | In progress |
+| 🎮 2D Browser Platformer | JavaScript, HTML Canvas, collision systems | In progress |
+| 🌿 Plant Encyclopedia | Three.js, JSON data, interactive UI | Planning |
+
+> I use these projects to practise clean UI, APIs, data handling, deployment, and real-world development workflows.
 
 ---
 
@@ -160,6 +172,19 @@ A career guidance and exploration platform.
 </div>
 
 ---
+
+## 🎮 Game Development
+
+I build small browser games to practise interactive programming, game loops, collision detection, state management, and UI design.
+
+- 🕹️ Exploring JavaScript, HTML Canvas, C++, and Unity fundamentals
+- 🎯 Interested in 2D platformers, arcade games, and interactive web experiences
+- 🧩 Focused on clean controls, responsive gameplay, and polished user interfaces
+
+[![Explore Game Projects](https://img.shields.io/badge/Explore_Game_Projects-6AD5FB?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Trnnt?tab=repositories)
+
+---
+
 
 ## 📊 GitHub Stats
 
