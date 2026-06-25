@@ -1,29 +1,63 @@
+<!-- ===================== HERO BANNER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Frontend%20%2B%20Backend%20%7C%20Learning%20AI%2FML&descAlignY=54&descSize=16" width="100%" alt="Nishant Kumar banner"/>
+<img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/banner.png" width="100%" alt="Nishant Kumar developer banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6AD5FB\&center=true\&vCenter=true\&width=850\&lines=Building+full-stack+applications+from+idea+to+deployment+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+React+%7C+Node.js+%7C+Databases;C%2B%2B+%7C+DSA+%7C+Web+Development+%7C+Problem+Solving;Learning+AI%2FML+and+building+smarter+products+%E2%9C%A8)](https://git.io/typing-svg)
+</div>
+
+<br/>
+
+<!-- ===================== INTRO ===================== -->
+
+# 👋 Hi, I'm <span style="color:#58A6FF;">Nishant!</span>
+
+---
+
+## 🚀 Building full-stack products and learning how intelligent software works.
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+* 🌍 **Based in India**
+* 🎓 **Computer Science Engineering Student**
+* 💻 **Full-Stack Developer** — frontend, backend, APIs, databases, authentication, and deployment
+* 🎨 Building responsive frontend interfaces with **React, JavaScript, Tailwind CSS, HTML, and CSS**
+* ⚙️ Building backend systems with **Node.js, Express.js, REST APIs, Firebase, Supabase, SQL, and MongoDB**
+* 🧠 Learning **DSA in C++**, DBMS, system design fundamentals, and **AI/ML**
+* 🔭 Building developer tools, full-stack web apps, games, and interactive projects
+* 🎮 Interested in software engineering, backend systems, game development, and AI-powered products
+* ⚡ Goal: build complete real-world products from idea to deployment
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/coding-illustration.png" width="100%" alt="Developer coding illustration"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm **Nishant Kumar**, a Computer Science Engineering student and a **Full-Stack Developer** who builds complete applications from frontend interfaces to backend APIs, databases, authentication, and deployment.
-
-I enjoy creating polished, useful, and interactive products — including web applications, developer tools, streaming-style platforms, games, and AI-powered experiences. I work across both frontend and backend, and I am actively learning **AI/ML** to build smarter applications.
-
-* 🎓 **B.Tech Computer Science Engineering** · Chandigarh University
-* 💻 **Full-Stack Developer** — frontend, backend, APIs, databases, authentication, and deployment
-* 🎨 Frontend: React, JavaScript, Tailwind CSS, HTML, CSS, responsive UI, and interactive user experiences
-* ⚙️ Backend: Node.js, Express.js, REST APIs, Firebase, Supabase, SQL, MongoDB, and backend architecture
-* 🧠 Currently learning: **DSA in C++**, DBMS, system design fundamentals, and **AI/ML**
-* 🔭 Building: developer tools, full-stack web applications, interactive UI projects, and games
-* 🎮 Interested in: software engineering, web development, backend systems, game development, and AI-powered products
-* ⚡ Goal: become a strong software engineer who can design, build, deploy, and improve complete real-world products
-
----
 
 ## 🌐 Live Projects
 
@@ -48,24 +82,6 @@ A streaming-style web application with a modern UI.
 </td>
 <td width="50%">
 
-### 🎵 Rimuru Music
-
-A music player application with an interactive interface.
-
-<a href="YOUR_MUSIC_APP_LIVE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Rimuru Music"/>
-</a>
-
-<a href="https://github.com/Trnnt/Music_app" target="_blank">
-  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rimuru Music source code"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 🧭 Career Compass
 
 A career guidance and exploration platform.
@@ -81,20 +97,6 @@ A career guidance and exploration platform.
 </td>
 <td width="50%">
 
-### ⚔️ War-X
-
-A game project focused on interactive gameplay and visuals.
-
-<a href="YOUR_WAR_X_LIVE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open War-X"/>
-</a>
-
-<a href="https://github.com/Trnnt/War-X" target="_blank">
-  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="War-X source code"/>
-</a>
-
-</td>
-</tr>
 </table>
 
 > To add a new live project later, copy one project block above, change its title, description, GitHub repository link, and live deployment link.
