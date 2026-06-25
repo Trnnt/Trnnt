@@ -90,6 +90,15 @@ A career guidance and exploration platform.
 
 ---
 
+## 🧊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trnnt&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nishant Kumar's GitHub contribution activity graph"/>
+</div>
+
+---
+
+
 ## 📌 Featured Repositories
 
 ## 🧪 Currently Building
@@ -98,7 +107,6 @@ A career guidance and exploration platform.
 |---|---|---|
 | 🧠 GitHub Developer Assistant | GitHub API, React, AI integration | In progress |
 | 🎮 2D Browser Platformer | JavaScript, HTML Canvas, collision systems | In progress |
-| 🌿 Plant Encyclopedia | Three.js, JSON data, interactive UI | Planning |
 
 > I use these projects to practise clean UI, APIs, data handling, deployment, and real-world development workflows.
 
