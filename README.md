@@ -6,14 +6,17 @@
 
 <br/>
 
-# 👋 Hi, I'm <span style="color:#58A6FF;">Nishant Kumar!</span>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I%27m+Nishant+Kumar!" alt="Hi, I'm Nishant Kumar" />
+</div>
 
+<br/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Third-Year+CSE+Student;Aspiring+Full-Stack+Developer;Building+Frontend+%26+Backend+Projects;Learning+MongoDB%2C+APIs%2C+and+AI+Tools" alt="Nishant Kumar developer introduction" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=950&lines=Third-Year+CSE+Student;Aspiring+Full-Stack+Developer;Building+Frontend%2C+Backend+%26+Database+Projects;Exploring+AI+Tools%2C+APIs+%26+Real-World+Development" alt="Nishant Kumar developer introduction" />
 </div>
+
+---
 
 ---
 
