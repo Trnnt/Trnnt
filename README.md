@@ -6,9 +6,16 @@
 
 <br/>
 
-# 👋 Hi, I'm Nishant Kumar
+# 👋 Hi, I'm <span style="color:#58A6FF;">Nishant Kumar!</span>
 
-## Full-Stack Developer | Frontend & Backend Developer | Third-Year CSE Student
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Third-Year+CSE+Student;Full-Stack+Developer; Frontend&Backend+Developer;Learning+MongoDB%2C+APIs%2C+and+AI+Tools" alt="Nishant Kumar developer introduction" />
+
+</div>
+
+---
 
 <table>
 <tr>
