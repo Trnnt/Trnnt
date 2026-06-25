@@ -1,8 +1,12 @@
-# Hi, I'm Trnnt 👋
+## 🛠️ Tech Stack
 
-Full Stack Developer focused on building clean, scalable, and thoughtful software — from polished UIs to solid backends.
+**Currently learning and building with:**
 
----
+- **Languages:** C++, JavaScript, HTML, CSS, SQL
+- **Frontend:** React, Tailwind CSS
+- **Backend / Database:** Node.js, Firebase, DBMS fundamentals
+- **Tools:** Git, GitHub, VS Code
+- **Currently exploring:** DSA, browser extensions, game development
 
 ## 🛠 Tech Stack
 
