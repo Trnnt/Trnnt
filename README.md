@@ -7,8 +7,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I%27m+Nishant+Kumar!" alt="Hi, I'm Nishant Kumar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Nishant+Kumar!;Third-Year+CSE+Student;Aspiring+Full-Stack+Developer;Building+Frontend%2C+Backend+%26+Database+Projects;Exploring+AI+Tools%2C+APIs+%26+Real-World+Development" alt="Nishant Kumar developer introduction" />
+
 </div>
+
+---
 
 <br/>
 
