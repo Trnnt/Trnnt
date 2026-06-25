@@ -1,16 +1,12 @@
 <!-- ===================== HERO BANNER ===================== -->
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/banner.png" width="100%" alt="Nishant Kumar developer banner"/>
-
+  <img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/banner.png" width="100%" alt="Nishant Kumar developer banner"/>
 </div>
 
 <br/>
 
-<!-- ===================== INTRO ===================== -->
-
-# 👋 Hi, I'm <span style="color:#58A6FF;">Nishant!</span>
+# 👋 Hi, I'm Nishant!
 
 ---
 
@@ -18,27 +14,23 @@
 
 <table>
 <tr>
-
 <td width="60%" valign="top">
 
 * 🌍 **Based in India**
 * 🎓 **Computer Science Engineering Student**
-* 💻 **Full-Stack Developer** — frontend, backend, APIs, databases, authentication, and deployment
-* 🎨 Building responsive frontend interfaces with **React, JavaScript, Tailwind CSS, HTML, and CSS**
-* ⚙️ Building backend systems with **Node.js, Express.js, REST APIs, Firebase, Supabase, SQL, and MongoDB**
-* 🧠 Learning **DSA in C++**, DBMS, system design fundamentals, and **AI/ML**
+* 💻 **Full-Stack Developer** — building frontend interfaces, backend APIs, databases, authentication, and deployment workflows
+* 🎨 Working with **React, JavaScript, Tailwind CSS, HTML, and CSS**
+* ⚙️ Learning backend development with **Node.js, Express.js, REST APIs, Firebase, Supabase, SQL, and MongoDB**
+* 🧠 Practising **DSA in C++**, DBMS, system design fundamentals, and **AI/ML**
 * 🔭 Building developer tools, full-stack web apps, games, and interactive projects
 * 🎮 Interested in software engineering, backend systems, game development, and AI-powered products
 * ⚡ Goal: build complete real-world products from idea to deployment
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/coding-illustration.png" width="100%" alt="Developer coding illustration"/>
-
+<td width="40%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/coding-illustration.png" width="100%" alt="Developer coding workspace illustration"/>
 </td>
-
 </tr>
 </table>
 
@@ -47,59 +39,56 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
 
-
 ## 🌐 Live Projects
 
-> Click any project to open the live deployed version.
+> Click a project to open its deployed version.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Netflix Clone
 
-A streaming-style web application with a modern UI.
+A streaming-style web application with a modern responsive interface.
 
-<a href="YOUR_NETFLIX_CLONE_LIVE_URL" target="_blank">
+<a href="YOUR_NETFLIX_CLONE_LIVE_URL">
   <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Netflix Clone"/>
 </a>
 
-<a href="https://github.com/Trnnt/Netflix_Clone" target="_blank">
+<a href="https://github.com/Trnnt/Netflix_Clone">
   <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Netflix Clone source code"/>
 </a>
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🧭 Career Compass
 
 A career guidance and exploration platform.
 
-<a href="YOUR_CAREER_COMPASS_LIVE_URL" target="_blank">
+<a href="YOUR_CAREER_COMPASS_LIVE_URL">
   <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Career Compass"/>
 </a>
 
-<a href="https://github.com/Trnnt/Career_Compass" target="_blank">
+<a href="https://github.com/Trnnt/Career_Compass">
   <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Career Compass source code"/>
 </a>
 
 </td>
-<td width="50%">
-
+</tr>
 </table>
 
-> To add a new live project later, copy one project block above, change its title, description, GitHub repository link, and live deployment link.
+> Replace `YOUR_NETFLIX_CLONE_LIVE_URL` and `YOUR_CAREER_COMPASS_LIVE_URL` with your actual Vercel, Netlify, or deployed project links.
 
 ---
 
@@ -108,7 +97,7 @@ A career guidance and exploration platform.
 > Repository details update automatically from GitHub.
 
 [![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Netflix_Clone\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/Netflix_Clone)
-[![Rimuru Music](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Music_app\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/Music_app)
+[![Rimuru Music](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Music_app\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)
 
 [![Career Compass](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Career_Compass\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/Career_Compass)
 [![War-X](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=War-X\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/War-X)
@@ -164,20 +153,23 @@ A career guidance and exploration platform.
 
 ---
 
+## 🎮 Developer Workspace
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/developer-workspace.png" width="92%" alt="Pixel-art developer workspace"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Trnnt&show_icons=true&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" height="165" alt="Nishant's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trnnt&layout=compact&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&bg_color=0d1117" height="165" alt="Most Used Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Trnnt&show_icons=true&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" height="165" alt="Nishant's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trnnt&layout=compact&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&bg_color=0d1117" height="165" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Trnnt&theme=tokyonight&hide_border=true&stroke=6AD5FB&ring=6AD5FB&fire=FF6B6B&currStreakLabel=6AD5FB" width="49%" alt="GitHub Contribution Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=Trnnt&theme=tokyonight&hide_border=true&stroke=6AD5FB&ring=6AD5FB&fire=FF6B6B&currStreakLabel=6AD5FB" width="49%" alt="GitHub Contribution Streak"/>
 </div>
 
 ---
@@ -186,23 +178,23 @@ A career guidance and exploration platform.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nishant-kumar-a18453357/" target="_blank">
+<a href="https://www.linkedin.com/in/nishant-kumar-a18453357/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/u/Nishant-kujmar5220/" target="_blank">
+<a href="https://leetcode.com/u/Nishant-kujmar5220/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/nishantkuigwq" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/nishantkuigwq">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/24BCS127501" target="_blank">
+<a href="https://www.hackerrank.com/profile/24BCS127501">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>
 
-<a href="https://github.com/Trnnt" target="_blank">
+<a href="https://github.com/Trnnt">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -213,9 +205,7 @@ A career guidance and exploration platform.
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave"/>
 </div>
 
 <p align="center">
