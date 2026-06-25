@@ -1,13 +1,3 @@
-## 🛠️ Tech Stack
-
-**Currently learning and building with:**
-
-- **Languages:** C++, JavaScript, HTML, CSS, SQL
-- **Frontend:** React, Tailwind CSS
-- **Backend / Database:** Node.js, Firebase, DBMS fundamentals
-- **Tools:** Git, GitHub, VS Code
-- **Currently exploring:** DSA, browser extensions, game development
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishant%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20Student&descAlignY=54&descSize=16" width="100%"/>
