@@ -40,8 +40,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trnnt/Trnnt/output/github-snake-dark.svg"/>
@@ -51,8 +49,6 @@
 </div>
 
 ---
-
-## 🌐 Live Projects
 
 > Click a project to open its deployed version.
 
@@ -89,14 +85,25 @@ A career guidance and exploration platform.
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+  
+### DevAssist
+<a href="[YOUR_CAREER_COMPASS_LIVE_URL](https://trnnt.github.io/DevAssist/#how-it-works)">
+  <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open DevAssist"/>
+</a>
+
+<a href="https://github.com/Trnnt/DevAssist">
+  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevAssist source code"/>
+</a>
 </tr>
+</td>
 </table>
 
 > Replace `YOUR_NETFLIX_CLONE_LIVE_URL` and `YOUR_CAREER_COMPASS_LIVE_URL` with your actual Vercel, Netlify, or deployed project links.
 
 ---
 
-## 🧊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trnnt&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nishant Kumar's GitHub contribution activity graph"/>
