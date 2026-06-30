@@ -89,7 +89,7 @@ A career guidance and exploration platform.
 <td width="50%" valign="top">
   
 ### DevAssist
-<a href="[YOUR_CAREER_COMPASS_LIVE_URL](https://trnnt.github.io/DevAssist/#how-it-works)">
+<a href="https://trnnt.github.io/DevAssist/#how-it-works">
   <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open DevAssist"/>
 </a>
 
