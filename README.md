@@ -14,6 +14,18 @@
 
 ---
 
+
+### 🚀 Space Rocket
+
+<a href="./games/space-rocket/index.html">
+<img src="https://img.shields.io/badge/🚀_PLAY_SPACE_ROCKET-6AD5FB?style=for-the-badge" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
 <br/>
 
 <table>
