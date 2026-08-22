@@ -15,22 +15,11 @@
 ---
 
 
-### 🚀 Space Rocket
+<h2>♟️ Chess</h2>
 
-<a href="./games/space-rocket/index.html">
-<img src="https://img.shields.io/badge/🚀_PLAY_SPACE_ROCKET-6AD5FB?style=for-the-badge" />
+<a href="YOUR-CHESS-PAGES-LINK">
+  <img src="https://img.shields.io/badge/♟️%20PLAY%20CHESS-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Play Chess">
 </a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### About Me
 
