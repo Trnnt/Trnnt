@@ -15,11 +15,21 @@
 ---
 
 
-<h2>♟️ Chess</h2>
+<td width="50%" valign="top">
 
-<a href="YOUR-CHESS-PAGES-LINK">
-  <img src="https://img.shields.io/badge/♟️%20PLAY%20CHESS-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Play Chess">
+### ♟️ Chess
+
+An AI-vs-AI browser chess game where visitors can take control of either side during the ongoing game.
+
+<a href="https://trnnt.github.io/Chess/">
+  <img src="https://img.shields.io/badge/♟️%20PLAY%20CHESS-6AD5FB?style=for-the-badge&logo=chess.com&logoColor=white" alt="Play Chess"/>
 </a>
+
+<a href="https://github.com/Trnnt/Chess">
+  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Chess source code"/>
+</a>
+
+</td>
 
 ### About Me
 
