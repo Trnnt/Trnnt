@@ -59,41 +59,17 @@
 
 A streaming-style web application with a modern responsive interface.
 
-<td width="33%" valign="top">
-
-<h3>🎬 PlayME</h3>
-
-<a href="YOUR_PLAYME_LIVE_URL">
-  <img
-    src="https://raw.githubusercontent.com/Trnnt/Trnnt/main/assets/playme.png"
-    width="100%"
-    alt="PlayME streaming platform"
-  />
-</a>
-
-<br/><br/>
-
-A streaming-style web application with a modern responsive interface.
-
-<br/><br/>
-
-<a href="https://github.com/Trnnt/Trnnt/blob/main/assets/playme.png">
-  <img
-    src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Open PlayME"
-  />
-</a>
-
-<br/><br/>
-
 <a href="https://netflix-clone-swart-kappa-89.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="PlayME source code"
-  />
+  <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Netflix Clone"/>
+</a>
+
+<a href="https://github.com/Trnnt/Netflix_Clone">
+  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Netflix Clone source code"/>
 </a>
 
 </td>
+
+<td width="33%" valign="top">
 
 ### 🧭 Career Compass
 
