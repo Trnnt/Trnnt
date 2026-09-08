@@ -60,7 +60,7 @@
 
 A streaming-style web application with a modern responsive interface.
 
-<a href="YOUR_NETFLIX_CLONE_LIVE_URL">
+<a href="https://netflix-clone-swart-kappa-89.vercel.app/">
   <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Netflix Clone"/>
 </a>
 
@@ -100,9 +100,6 @@ A career guidance and exploration platform.
 </td>
 </table>
 
-> Replace `YOUR_NETFLIX_CLONE_LIVE_URL` and `YOUR_CAREER_COMPASS_LIVE_URL` with your actual Vercel, Netlify, or deployed project links.
-
----
 
 
 <div align="center">
