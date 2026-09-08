@@ -22,13 +22,12 @@
 
 ### About Me
 
-- 💻 Third-year Computer Science Engineering student focused on full-stack development
-- ⚛️ Building responsive frontend applications with React, JavaScript, Tailwind CSS, HTML, and CSS
-- ⚙️ Learning backend development with Node.js, Express.js, REST APIs, authentication, databases, and deployment
-- 🧠 Practising DSA in C++, DBMS, OOP, and system design fundamentals
-- 🤖 Learning to use AI tools and AI APIs to build smarter features in web applications
-- 🎮 Building browser games and interactive projects to strengthen problem-solving and UI engineering
-- 🚀 Goal: become a software engineer who can build reliable products from idea to deployment
+- 💻 **Computer Science Undergraduate**: Third-year B.E. CSE student at UIE focusing on full-stack web and mobile architectures.
+- ⚛️ **Frontend Engineering**: Developing scalable, responsive user interfaces utilizing React, JavaScript, Tailwind CSS, HTML5, and CSS3.
+- ⚙️ **Backend & Databases**: Building robust server-side logic, RESTful APIs, and database integrations with Node.js, Express.js, MongoDB, and Firebase.
+- 🧠 **Core Computer Science**: Strengthening software engineering fundamentals through Data Structures and Algorithms (C++), DBMS, OOP, and System Design.
+- 🤖 **AI & Modern Tooling**: Integrating AI APIs and developer tools to implement intelligent features and optimize workflows.
+- 🚀 **Career Objective**: Engineering reliable, end-to-end software applications from initial concept through production deployment.
 
 </td>
 
@@ -54,7 +53,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎬 Netflix Clone
 
@@ -70,7 +69,7 @@ A streaming-style web application with a modern responsive interface.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧭 Career Compass
 
@@ -86,9 +85,12 @@ A career guidance and exploration platform.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
   
-### DevAssist
+### 🛠️ DevAssist
+
+A GitHub developer assistant powered by API integrations and AI tools.
+
 <a href="https://trnnt.github.io/DevAssist/#how-it-works">
   <img src="https://img.shields.io/badge/View_Live_Project-6AD5FB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open DevAssist"/>
 </a>
@@ -96,20 +98,16 @@ A career guidance and exploration platform.
 <a href="https://github.com/Trnnt/DevAssist">
   <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevAssist source code"/>
 </a>
-</tr>
+
 </td>
+</tr>
 </table>
-
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trnnt&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Nishant Kumar's GitHub contribution activity graph"/>
 </div>
 
 ---
-
-
-## 📌 Featured Repositories
 
 ## 🧪 Currently Building
 
@@ -126,13 +124,19 @@ A career guidance and exploration platform.
 
 > Repository details update automatically from GitHub.
 
-[![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Netflix_Clone\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/Netflix_Clone)
-[![Rimuru Music](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Music_app\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)
+<p align="center">
+  <a href="https://github.com/Trnnt/Netflix_Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trnnt&repo=Netflix_Clone&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" /></a>
+  <a href="https://github.com/Trnnt/Music_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trnnt&repo=Music_app&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" /></a>
+</p>
 
-[![Career Compass](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=Career_Compass\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/Career_Compass)
-[![War-X](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=War-X\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/War-X)
+<p align="center">
+  <a href="https://github.com/Trnnt/Career_Compass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trnnt&repo=Career_Compass&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" /></a>
+  <a href="https://github.com/Trnnt/War-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trnnt&repo=War-X&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" /></a>
+</p>
 
-[![Anime Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=Trnnt\&repo=AnimeLandingPage\&theme=tokyonight\&hide_border=true\&title_color=6AD5FB\&text_color=ffffff\&icon_color=6AD5FB\&bg_color=0d1117)](https://github.com/Trnnt/AnimeLandingPage)
+<p align="center">
+  <a href="https://github.com/Trnnt/AnimeLandingPage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trnnt&repo=AnimeLandingPage&theme=tokyonight&hide_border=true&title_color=6AD5FB&text_color=ffffff&icon_color=6AD5FB&bg_color=0d1117" /></a>
+</p>
 
 > 👉 Explore all repositories: [github.com/Trnnt?tab=repositories](https://github.com/Trnnt?tab=repositories)
 
@@ -141,45 +145,40 @@ A career guidance and exploration platform.
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend, Database & Deployment
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### Currently Exploring
-
-![DSA](https://img.shields.io/badge/DSA-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Learning-8E75B2?style=flat-square\&logo=google\&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-000000?style=flat-square\&logo=unity\&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Learning-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game_Development-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
@@ -202,7 +201,6 @@ I build small browser games to practise interactive programming, game loops, col
 [![Explore Game Projects](https://img.shields.io/badge/Explore_Game_Projects-6AD5FB?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Trnnt?tab=repositories)
 
 ---
-
 
 ## 📊 GitHub Stats
 
