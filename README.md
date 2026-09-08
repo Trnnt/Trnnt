@@ -86,7 +86,7 @@ A streaming-style web application with a modern responsive interface.
 
 <br/><br/>
 
-<a href="https://netflix-clone-swart-kappa-89.vercel.app/e">
+<a href="https://netflix-clone-swart-kappa-89.vercel.app/">
   <img
     src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="PlayME source code"
